@@ -28,8 +28,8 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/TolieJolie/Jo.Ella_Pr2]
+- Live Site URL: [https://toliejolie.github.io/Jo.Ella_Pr2]
 
 ### Built with
 
